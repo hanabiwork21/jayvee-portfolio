@@ -19,7 +19,7 @@ export function About() {
               </p>
               <div className="mt-8">
                 <Button asChild>
-                  <a href="/jayvee-m-dairo-resume.pdf" download="JAYVEE-RESUME.pdf">
+                  <a href="/JAYVEE-RESUME.pdf" download="JAYVEE-RESUME.pdf">
                     <Download className="h-4 w-4 mr-2" />
                     Download CV
                   </a>
