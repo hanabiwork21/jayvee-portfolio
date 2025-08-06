@@ -21,7 +21,7 @@ export function About() {
                 <Button asChild>
                   <a href="/jayvee-m-dairo-resume.pdf" download="JAYVEE-RESUME.pdf">
                     <Download className="h-4 w-4 mr-2" />
-                    Download Full Resume
+                    Download CV
                   </a>
                 </Button>
               </div>
