@@ -6,7 +6,7 @@ export function Experience() {
     {
       title: "Computer Attendant",
       company: "IO Cybercafe Antipolo",
-      period: "2024 - Present",
+      period: "Sept 2024 - Present",
       description:
         "Assisted customers with computer-related issues, provided technical support, and managed daily operations of the cybercafe.",
       technologies: ["Technical Support", "Customer Service", "Computer Maintenance"],
@@ -14,7 +14,7 @@ export function Experience() {
     {
       title: "Frontend Developer",
       company: "Sneaky Events Team",
-      period: "2023 - 2024",
+      period: "Aug 2023 - Dec 2023",
       description:
         "Developed and maintained the frontend of the Sneaky Events website, ensuring a responsive and user-friendly interface.",
       technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
