@@ -10,19 +10,11 @@ export function Footer() {
             <p className="text-muted-foreground">© 2024 Jayvee Dairo. All rights reserved.</p>
           </div>
           <div className="flex items-center gap-6">
-            <Link href="https://github.com" className="text-muted-foreground hover:text-primary transition-colors">
+            <Link href="https://github.com/hanabiwork21" className="text-muted-foreground hover:text-primary transition-colors">
               <Github className="h-5 w-5" />
               <span className="sr-only">GitHub</span>
             </Link>
-            <Link href="https://linkedin.com" className="text-muted-foreground hover:text-primary transition-colors">
-              <Linkedin className="h-5 w-5" />
-              <span className="sr-only">LinkedIn</span>
-            </Link>
-            <Link href="https://twitter.com" className="text-muted-foreground hover:text-primary transition-colors">
-              <Twitter className="h-5 w-5" />
-              <span className="sr-only">Twitter</span>
-            </Link>
-            <Link href="mailto:alex@example.com" className="text-muted-foreground hover:text-primary transition-colors">
+            <Link href="mailto:jayveedairo0@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
               <Mail className="h-5 w-5" />
               <span className="sr-only">Email</span>
             </Link>
