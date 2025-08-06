@@ -30,16 +30,16 @@ export function Projects() {
       description: "A responsive weather application with location-based forecasts.",
       image: "/weather_app.svg",
       technologies: ["Vue.js", "Chart.js", "Weather API", "Tailwind"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com",
+      liveUrl: "https://hanabiwork21.github.io/Weather-App/",
+      githubUrl: "https://github.com/hanabiwork21/Weather-App",
     },
     {
       title: "Sneaky Gaming Website",
       description: "A modern gaming website with a sleek design and user-friendly interface.",
       image: "/sneakyweb.svg",
       technologies: ["Next.js", "Framer Motion", "Tailwind CSS"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com",
+      liveUrl: "https://hanabiwork21.github.io/sneaky-events-team/",
+      githubUrl: "https://github.com/hanabiwork21/sneaky-events-team",
     },
   ]
 
